@@ -6,9 +6,9 @@
 
 
 <div align="center">
-<img src="media/boscoimg.jpg" alt="Pepe" width="170" />
+<img src="life.jpg" alt="Pepe" width="170" />
 
-# Bosco Bot
+# X Bot シ︎
 <p align="center">
  <a href="https://github.com/pepesir"><img title="Author" src="https://img.shields.io/badge/OWNER-h?color=black&style=for-the-badge&logo=github"></a>  <a href="https://Wa.me/+917736622139?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Author P3P3 Sir-h?color=black&style=for-the-badge&logo=whatsapp"></a>
 <p align="center">
